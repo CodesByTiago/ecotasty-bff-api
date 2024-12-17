@@ -1,0 +1,4 @@
+// Tarefas do Projeto Teddy API
+
+- Configuração inicial do Nest + TypeORM + Swagger + Docker
+- Implementar Module User e Login
