@@ -11,7 +11,7 @@ produtos orgânicos.
 
 <hr />
 
-![Home Screenshot](https://github.com/CodesByTiago/ecotasty-bff-api/blob/main/screenshots/home.png)
+![EcoTasty - BFF API Home Screenshot](https://github.com/CodesByTiago/ecotasty-bff-api/blob/main/screenshots/home.png)
 
 <hr />
 
