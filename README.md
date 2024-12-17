@@ -9,9 +9,12 @@ produtos orgânicos.
 
 **O que foi usado para idealizar esse projeto:**
 
-- Node.js: É um ambiente de execução JavaScript de código aberto que permite a execução de JavaScript do lado do servidor.
-- Nest.js: NestJS é um framework que utiliza o conceito de arquitetura orientada a módulos e é construído sobre o Node.js.
-- TypeORM: Permite que você utilize entidades JavaScript/TypeScript para interagir com banco de dados relacional.
+- Node.js: É um ambiente de execução JavaScript de código aberto que permite a
+  execução de JavaScript do lado do servidor.
+- Nest.js: NestJS é um framework que utiliza o conceito de arquitetura orientada
+  a módulos e é construído sobre o Node.js.
+- TypeORM: Permite que você utilize entidades JavaScript/TypeScript para
+  interagir com banco de dados relacional.
 - JWT: Geração de token para sistemas seguros de autenticação.
 - Swagger: Facilita a definição, documentação, teste e consumo de APIs.
 - PostgreSQL: É um sistema de gerenciamento de banco de dados relacional.
