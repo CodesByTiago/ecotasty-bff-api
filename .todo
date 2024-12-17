@@ -1,4 +1,5 @@
 // Tarefas do Projeto Teddy API
 
-- Configuração inicial do Nest + TypeORM + Swagger + Docker
+- Configuração inicial do Nest + TypeORM + Swagger + Docker @done
+- Configurar Husky para Bloquear push diretamente na main sem PR aberto.
 - Implementar Module User e Login
