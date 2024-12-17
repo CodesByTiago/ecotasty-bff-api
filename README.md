@@ -7,7 +7,7 @@ produtos orgânicos.
 
 <hr />
 
-**O que foi usado para ter esse projeto base:**
+**O que foi usado para idealizar esse projeto:**
 
 - Node.js: É um ambiente de execução JavaScript de código aberto que permite a execução de JavaScript do lado do servidor.
 - Nest.js: NestJS é um framework que utiliza o conceito de arquitetura orientada a módulos e é construído sobre o Node.js.
