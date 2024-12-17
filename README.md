@@ -11,6 +11,10 @@ produtos orgânicos.
 
 <hr />
 
+![Home Screenshot](https://github.com/CodesByTiago/ecotasty-bff-api/blob/main/screenshots/home.png)
+
+<hr />
+
 **O que foi usado para ter esse projeto base:**
 
 - Node.js
