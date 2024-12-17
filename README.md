@@ -9,11 +9,11 @@ produtos orgânicos.
 
 **O que foi usado para idealizar esse projeto:**
 
-- Node.js: É um ambiente de execução JavaScript de código aberto que permite a
+- Node.js: É um ambiente de execução JavaScript de código aberto que permite a <br />
   execução de JavaScript do lado do servidor.
-- Nest.js: NestJS é um framework que utiliza o conceito de arquitetura orientada
+- Nest.js: NestJS é um framework que utiliza o conceito de arquitetura orientada <br />
   a módulos e é construído sobre o Node.js.
-- TypeORM: Permite que você utilize entidades JavaScript/TypeScript para
+- TypeORM: Permite que você utilize entidades JavaScript/TypeScript para <br />
   interagir com banco de dados relacional.
 - JWT: Geração de token para sistemas seguros de autenticação.
 - Swagger: Facilita a definição, documentação, teste e consumo de APIs.
