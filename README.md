@@ -3,28 +3,20 @@
 Projeto BFF API idealizado para fins de estudo para uma aplicação ficticia de
 produtos orgânicos.
 
-- Aplicado TypeORM.
-- Usei PostgreSQL como banco de dados.
-- Utilizei Docker para criar o banco local e o PgAdmin.
-- Foi implementado sistema de auth e guard nas rotas principais de criaçàode clientes.
-- Organização do projeto seguindo conceitos de clean architecture.
-
-<hr />
-
 ![EcoTasty - BFF API Home Screenshot](https://github.com/CodesByTiago/ecotasty-bff-api/blob/main/screenshots/home.png)
 
 <hr />
 
 **O que foi usado para ter esse projeto base:**
 
-- Node.js
-- Nest.js
-- TypeORM
-- JWT
-- Swagger
-- PostgreSQL
-- Docker
-- BCrypt
+- Node.js: É um ambiente de execução JavaScript de código aberto que permite a execução de JavaScript do lado do servidor.
+- Nest.js: NestJS é um framework que utiliza o conceito de arquitetura orientada a módulos e é construído sobre o Node.js.
+- TypeORM: Permite que você utilize entidades JavaScript/TypeScript para interagir com banco de dados relacional.
+- JWT: Geração de token para sistemas seguros de autenticação.
+- Swagger: Facilita a definição, documentação, teste e consumo de APIs.
+- PostgreSQL: É um sistema de gerenciamento de banco de dados relacional.
+- Docker: Utilizado para criar um container local do banco de dados e do pgadmin.
+- BCrypt: Criptografa a senhas ao criar um novo usuário e compara ao fazer login.
 
 <hr />
 
