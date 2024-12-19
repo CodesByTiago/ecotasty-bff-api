@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { DataSourceOptions } from 'typeorm';
+import { MongoProvider } from './mongo.provider';
 
 ConfigModule.forRoot();
 const configService = new ConfigService();
@@ -27,6 +28,7 @@ export const dataSourceOptions: DataSourceOptions = {
         };
       },
     }),
+    MongoProvider,
   ],
 })
 export class DatabaseModule {}
