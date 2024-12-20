@@ -9,10 +9,14 @@ import { DatabaseModule } from './database/database.module';
     ConfigModule.forRoot({
       isGlobal: true,
     }),
-    ServeStaticModule.forRoot({
-      rootPath: join(process.cwd(), './public'),
-      exclude: ['/api/(.*)'],
-    }),
+    ...(process.env.NODE_ENV !== 'production'
+      ? [
+          ServeStaticModule.forRoot({
+            rootPath: join(process.cwd(), './public'),
+            exclude: ['/api/(.*)'],
+          }),
+        ]
+      : []),
     DatabaseModule,
   ],
 })
